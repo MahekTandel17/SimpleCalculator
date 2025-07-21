@@ -20,10 +20,10 @@ A responsive and functional calculator built using HTML, CSS, and JavaScript. Th
 
 ## 📂 Project Structure
 Calculator-Project/
-├── index.html
-├── style.css
-├── script.js
-└── README.md
+-├── index.html
+-├── style.css
+-├── script.js
+-└── README.md
 
 ## 📬 Contact
 Made by Mahek Tandel – feel free to reach out!
