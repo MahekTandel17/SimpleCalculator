@@ -19,7 +19,7 @@ A responsive and functional calculator built using HTML, CSS, and JavaScript. Th
 2. Open `index.html` in your browser
 
 ## 📂 Project Structure
-📁 Calculator-Project
+Calculator-Project/
 ├── index.html
 ├── style.css
 ├── script.js
